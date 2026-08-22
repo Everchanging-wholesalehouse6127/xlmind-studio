@@ -1,0 +1,62 @@
+name: Feature request
+description: Suggest a new tool or an improvement to an existing one
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an idea for XLMind Studio.
+
+        The most useful requests describe the **Excel work you are trying to finish**, not only the feature you imagine. That often leads to a better answer than the one originally asked for — sometimes even to a tool that already exists.
+
+        **Please do not post license keys, order numbers, personal information, payment details or confidential workbooks.** Issues in this repository are public.
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before you start
+      options:
+        - label: I have checked the [feature list](https://xlmindstudio.com/en/features) and this does not already exist.
+          required: true
+        - label: This request contains no license keys, personal data or confidential workbook content.
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: Describe the situation and how you handle it today. What makes it slow, repetitive or error-prone?
+      placeholder: "Every month I receive an export where the date column arrives as text in three different formats, and I..."
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: What would the ideal workflow look like?
+      description: Where in the ribbon would you expect it, what would you select first, and what should the result be?
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: What would this let you do that you cannot do now?
+      description: Time saved, errors avoided, a manual step removed, a report you could not previously produce.
+    validations:
+      required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often would you use it?
+      options:
+        - Several times a day
+        - A few times a week
+        - Monthly, as part of a reporting cycle
+        - Occasionally
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else? (optional)
+      description: Sample data shape, a sketch, or a screenshot with any real data removed.
+    validations:
+      required: false
