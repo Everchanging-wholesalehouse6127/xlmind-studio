@@ -35,24 +35,26 @@ XLMind Studio is a Windows desktop add-in for Microsoft Excel. It installs two r
 The tasks that usually take an afternoon — untangling a messy export, checking two lists against each other, tracing where a broken formula comes from, rebuilding the same monthly report — are the tasks the product is built around.
 
 <p align="center">
-  <img src="https://xlmindstudio.com/images/data_en.png" alt="The XLMind Data ribbon in Microsoft Excel, showing the Quick, Clean, Extract, Text and Numbers, Date, Codes and Output, and Practical tool groups" width="100%">
+  <a href="https://xlmindstudio.com/images/data_en.png" title="Open the full-size screenshot"><img src="https://xlmindstudio.com/images/data_en.png" alt="The XLMind Data ribbon in Microsoft Excel, showing the Quick, Clean, Extract, Text and Numbers, Date, Codes and Output, and Practical tool groups" width="100%"></a>
   <br><em>The <strong>XLMind Data</strong> ribbon — cleaning, extracting, reshaping and repairing data.</em>
 </p>
 
 <p align="center">
-  <img src="https://xlmindstudio.com/images/plus_en.png" alt="The XLMind Plus ribbon in Microsoft Excel, showing the Combine and Get, Summarize and Prepare, Compare and Check, Data Profile, Formula Audit, Dashboard and Color Tools groups" width="100%">
+  <a href="https://xlmindstudio.com/images/plus_en.png" title="Open the full-size screenshot"><img src="https://xlmindstudio.com/images/plus_en.png" alt="The XLMind Plus ribbon in Microsoft Excel, showing the Combine and Get, Summarize and Prepare, Compare and Check, Data Profile, Formula Audit, Dashboard and Color Tools groups" width="100%"></a>
   <br><em>The <strong>XLMind Plus</strong> ribbon — combining, auditing, analysing and reporting.</em>
 </p>
 
 ## Why teams use it
 
-| | |
-|---|---|
-| **Stop repeating yourself** | Trimming, splitting, unmerging, filling blanks, fixing broken characters and apostrophe numbers are one click instead of a helper-column chain. |
-| **Trust your numbers** | Compare two lists, compare rows, profile a table, highlight duplicates and unique values, and trace every formula and external link before you send the file. |
-| **Report without rebuilding** | Ready dashboard and report layouts, live KPI cards, data-bound charts and shaded geographic maps that keep updating with your data. |
-| **Stay inside Excel** | No new application to learn, no export step, no separate file format. Everything runs on the workbook you already have open. |
-| **Keep your data where it is** | Your Excel data stays on your computer for XLMind Studio processing. Workbook contents are not sent to a cloud service or to AI services. |
+**Stop repeating yourself.** Trimming, splitting, unmerging, filling blanks, fixing broken characters and apostrophe numbers become one click instead of a helper-column chain.
+
+**Trust your numbers.** Compare two lists, compare rows, profile a table, highlight duplicates and unique values, and trace every formula and external link before you send the file.
+
+**Report without rebuilding.** Ready dashboard and report layouts, live KPI cards, data-bound charts and shaded geographic maps that keep updating with your data.
+
+**Stay inside Excel.** No new application to learn, no export step, no separate file format. Everything runs on the workbook you already have open.
+
+**Keep your data where it is.** Your Excel data stays on your computer for XLMind Studio processing. Workbook contents are not sent to a cloud service or to AI services.
 
 ## Feature categories
 
