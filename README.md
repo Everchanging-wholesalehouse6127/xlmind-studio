@@ -168,6 +168,16 @@ Step-by-step: [docs/installation.md](docs/installation.md) · [docs/getting-star
 | [SECURITY.md](SECURITY.md) | How to report a security concern |
 | [CHANGELOG.md](CHANGELOG.md) | Public release notes |
 
+## Excel Guides
+
+Practical, product-independent guides for people who work in Excel every day. Written to be useful on their own, whether or not you use XLMind Studio.
+
+| Guide | What it covers |
+|---|---|
+| [Excel Data Cleaning Guide](docs/excel-data-cleaning-guide.md) | A workflow for messy spreadsheets, in the order that avoids the usual traps: spaces, broken characters, text-formatted numbers, ambiguous dates, leading zeros, duplicates and inconsistent categories — plus how to validate the result |
+| [Excel Dashboard Guide](docs/excel-dashboard-guide.md) | From raw data to KPI reporting: separating data, model and presentation, choosing metrics and chart types, formatting and layout decisions, refreshability and pre-publication validation |
+| [Excel Productivity Checklist](docs/excel-productivity-checklist.md) | 30 practices that cut repetitive spreadsheet work, across data preparation, formula review, comparison, reporting, quality control and sharing |
+
 ## FAQ
 
 <details>
