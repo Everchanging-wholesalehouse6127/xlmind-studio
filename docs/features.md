@@ -74,6 +74,14 @@ Geographic maps that shade regions by value. **Benefit:** regional performance r
 
 Every tool works on the workbook that is already open in Excel — usually on the range or table you have selected. There is no export step, no separate application and no cloud round trip: your Excel data stays on your computer for XLMind Studio’s local processing.
 
+## Related guides
+
+These guides explain the work the tools above support. They are written to stand on their own, independently of the product:
+
+- [Excel Data Cleaning Guide](excel-data-cleaning-guide.md) — a workflow for messy spreadsheets, in the order that avoids the usual traps
+- [Excel Dashboard Guide](excel-dashboard-guide.md) — from raw data to clear KPI reporting
+- [Excel Productivity Checklist](excel-productivity-checklist.md) — 30 ways to cut repetitive spreadsheet work
+
 ## Try it
 
 All 153 tools are available during the **7-day free trial**.
