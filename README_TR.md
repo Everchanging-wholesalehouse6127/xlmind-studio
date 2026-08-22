@@ -35,24 +35,26 @@ XLMind Studio, Microsoft Excel için bir Windows masaüstü eklentisidir. Excel 
 Normalde yarım gün alan işler — dağınık bir dışa aktarımı düzeltmek, iki listeyi karşılaştırmak, bozuk bir formülün nereden geldiğini izlemek, aynı aylık raporu yeniden kurmak — ürünün etrafında kurgulandığı işlerdir.
 
 <p align="center">
-  <img src="https://xlmindstudio.com/images/data_tr.png" alt="Microsoft Excel içindeki XLMind Data şeridi: Hızlı, Temizle, Ayıkla, Metin ve Sayı, Tarih, Kodlar ve Çıktı ile Pratik grupları" width="100%">
+  <a href="https://xlmindstudio.com/images/data_tr.png"><img src="https://xlmindstudio.com/images/data_tr.png" alt="Microsoft Excel içindeki XLMind Data şeridi: Hızlı, Temizle, Ayıkla, Metin ve Sayı, Tarih, Kodlar ve Çıktı ile Pratik grupları" width="100%"></a>
   <br><em><strong>XLMind Data</strong> şeridi — temizleme, ayıklama, yeniden şekillendirme ve düzeltme.</em>
 </p>
 
 <p align="center">
-  <img src="https://xlmindstudio.com/images/plus_tr.png" alt="Microsoft Excel içindeki XLMind Plus şeridi: Birleştir ve Getir, Özet ve Hazırla, Karşılaştır ve Kontrol, Veri Profili, Formül Denetimi, Dashboard ve Renk Araçları grupları" width="100%">
+  <a href="https://xlmindstudio.com/images/plus_tr.png"><img src="https://xlmindstudio.com/images/plus_tr.png" alt="Microsoft Excel içindeki XLMind Plus şeridi: Birleştir ve Getir, Özet ve Hazırla, Karşılaştır ve Kontrol, Veri Profili, Formül Denetimi, Dashboard ve Renk Araçları grupları" width="100%"></a>
   <br><em><strong>XLMind Plus</strong> şeridi — birleştirme, denetim, analiz ve raporlama.</em>
 </p>
 
 ## Neden kullanılıyor?
 
-| | |
-|---|---|
-| **Aynı işi tekrar yapmayın** | Boşluk temizleme, ayırma, birleştirilmiş hücreleri açma, boşlukları doldurma, bozuk karakter ve kesme işaretli sayı düzeltme; yardımcı sütun zinciri yerine tek tık. |
-| **Sayılarınıza güvenin** | İki listeyi ve satırları karşılaştırın, tablo profilini çıkarın, yinelenen ve benzersiz değerleri vurgulayın, dosyayı göndermeden önce formülleri ve dış bağlantıları izleyin. |
-| **Raporu sıfırdan kurmayın** | Hazır dashboard ve rapor düzenleri, canlı KPI kartları, veriye bağlı grafikler ve değere göre renklenen coğrafi haritalar; hepsi verinizle birlikte güncellenir. |
-| **Excel'in içinde kalın** | Öğrenilecek yeni bir uygulama, dışa aktarma adımı veya ayrı bir dosya biçimi yok. Her şey zaten açık olan çalışma kitabında çalışır. |
-| **Veriniz sizde kalsın** | Excel verileriniz, XLMind Studio'nun yerel işlemesi için bilgisayarınızda kalır. Çalışma kitabı içerikleri bir bulut servisine veya yapay zekâ servislerine gönderilmez. |
+**Aynı işi tekrar yapmayın.** Boşluk temizleme, ayırma, birleştirilmiş hücreleri açma, boşlukları doldurma, bozuk karakter ve kesme işaretli sayı düzeltme; yardımcı sütun zinciri yerine tek tık.
+
+**Sayılarınıza güvenin.** İki listeyi ve satırları karşılaştırın, tablo profilini çıkarın, yinelenen ve benzersiz değerleri vurgulayın, dosyayı göndermeden önce formülleri ve dış bağlantıları izleyin.
+
+**Raporu sıfırdan kurmayın.** Hazır dashboard ve rapor düzenleri, canlı KPI kartları, veriye bağlı grafikler ve değere göre renklenen coğrafi haritalar; hepsi verinizle birlikte güncellenir.
+
+**Excel'in içinde kalın.** Öğrenilecek yeni bir uygulama, dışa aktarma adımı veya ayrı bir dosya biçimi yok. Her şey zaten açık olan çalışma kitabında çalışır.
+
+**Veriniz sizde kalsın.** Excel verileriniz, XLMind Studio'nun yerel işlemesi için bilgisayarınızda kalır. Çalışma kitabı içerikleri bir bulut servisine veya yapay zekâ servislerine gönderilmez.
 
 ## Özellik kategorileri
 
