@@ -1,0 +1,23 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Download XLMind Studio (free 7-day trial)
+    url: https://xlmindstudio.com/en/download?utm_source=github&utm_medium=referral&utm_campaign=github_public_repo&utm_content=issue_config_download
+    about: The official and only canonical download source for XLMind Studio installers.
+  - name: Licensing, orders, invoices and account questions
+    url: https://xlmindstudio.com/en/support?utm_source=github&utm_medium=referral&utm_campaign=github_public_repo&utm_content=issue_config_support
+    about: Handled privately through the official support form or support@xlmindstudio.com. Never post license keys or order numbers in a public issue.
+  - name: Report a security vulnerability (private)
+    url: https://github.com/bymmb/xlmind-studio/blob/main/SECURITY.md
+    about: Please report suspected vulnerabilities privately instead of opening a public issue.
+  - name: Installer verification, digital signature and SHA-256
+    url: https://xlmindstudio.com/en/security?utm_source=github&utm_medium=referral&utm_campaign=github_public_repo&utm_content=issue_config_security
+    about: Publisher details and the checksum of the current release, plus what a Windows SmartScreen notice means.
+  - name: System requirements
+    url: https://xlmindstudio.com/en/system-requirements?utm_source=github&utm_medium=referral&utm_campaign=github_public_repo&utm_content=issue_config_sysreq
+    about: Verified Windows and Microsoft Excel compatibility. XLMind Studio requires 64-bit desktop Excel on Windows.
+  - name: Documentation and troubleshooting
+    url: https://github.com/bymmb/xlmind-studio/tree/main/docs
+    about: Getting started, installation, features, security, troubleshooting and FAQ.
+  - name: Türkçe destek
+    url: https://xlmindstudio.com/tr/destek?utm_source=github&utm_medium=referral&utm_campaign=github_public_repo&utm_content=issue_config_support_tr
+    about: Türkçe destek formu ve dokümantasyon.
